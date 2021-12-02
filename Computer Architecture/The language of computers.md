@@ -89,7 +89,7 @@ C#이나 java의 string은 UTF-16
    
 32비트 부동 소수점수   
 부호비트 1비트 지수 비트 8비트 가수 비트 23비트로 실수를 표현   
-![single_precison](/single_precision.png)
+![single_precison](./single_precision.png)
 
 
 
